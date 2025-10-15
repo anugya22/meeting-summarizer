@@ -163,7 +163,7 @@ export default function MeetingSummarizer() {
 
         {/* ⚠️ Notice: Backend not deployed */}
         <div className="w-full rounded-xl p-4 bg-yellow-100 dark:bg-yellow-800 border-l-4 border-yellow-500 dark:border-yellow-400 text-yellow-800 dark:text-yellow-100 font-medium text-center mb-8">
-        ⚠️ Note: This is just the UI interface. Backend API is not deployed, so actual transcription and summarization will not work.
+        ⚠️ Note: This is just the UI interface. Backend API is not deployed. This is just for submitting the Assignment LINKs and UI interface check.
         </div>
 
         {/* Step 1: Video upload */}
