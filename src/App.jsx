@@ -133,7 +133,7 @@ export default function MeetingSummarizer() {
           </a>
 
           <a
-            href="https://drive.google.com/file/d/1uPoLhFF1G1QXS3M1_CxhW7Z71B9qcUfR/view?usp=sharing"
+            href="https://meeting-summarizer-doc.vercel.app/"
             target="_blank" rel="noopener noreferrer"
             className="group flex items-center justify-center space-x-3 px-8 py-6 bg-gradient-to-r from-teal-500 to-emerald-600 hover:from-teal-600 hover:to-emerald-700 rounded-2xl transition-all duration-300 transform hover:scale-105 hover:shadow-2xl"
           >
