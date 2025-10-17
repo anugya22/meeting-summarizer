@@ -161,6 +161,12 @@ export default function MeetingSummarizer() {
           </a>
         </div>
 
+        {/* ⚠️ Notice: Backend not deployed */}
+        <div className="w-full rounded-xl p-4 bg-yellow-100 dark:bg-yellow-800 border-l-4 border-yellow-500 dark:border-yellow-400 text-yellow-800 dark:text-yellow-100 font-medium text-center mb-8">
+          ⚠️ Note: This is the UI interface only. The backend API (Whisper transcription & LLM summarization) is not deployed because free hosting services do not provide GPU/compute resources required for Whisper. The demo showcases the UI, and submission links, while actual audio processing is demonstrated locally.
+        </div>
+
+
        
 
         {/* Step 1: Video upload */}
